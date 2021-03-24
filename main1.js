@@ -21,6 +21,6 @@ function e() {
   change();
 }
 function change() {
-  location.replace("http://127.0.0.1:5500/main.html");
+  location.replace("https://tejudevz.github.io/object-detection/main.html");
   localStorage.setItem("image", next_image);
 }
